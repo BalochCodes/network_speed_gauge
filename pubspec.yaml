@@ -1,0 +1,28 @@
+name: network_speed_gauge
+description: Futuristic circular speedometer dial and bandwidth meter for Flutter with neon speed arcs, spring needle physics, digital readouts, and auto unit scaling.
+version: 0.0.1
+homepage: https://github.com/BalochCodes/network_speed_gauge
+repository: https://github.com/BalochCodes/network_speed_gauge
+issue_tracker: https://github.com/BalochCodes/network_speed_gauge/issues
+
+topics:
+  - speedometer
+  - gauge
+  - speedtest
+  - network
+  - bandwidth
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
